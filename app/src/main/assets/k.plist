@@ -1,0 +1,71 @@
+<!-- Brought to you by https://mallibone.com under MIT license. Enjoy sensibly. -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+	<dict>
+
+		<key>items</key>
+
+		<array>
+
+			<dict>
+
+				<key>assets</key>
+
+				<array>
+
+					<dict>
+
+						<key>kind</key>
+
+						<string>software-package</string>
+
+						<key>url</key>
+
+                        <!-- Change URL bellow to the location of your ipa -->
+
+						<string>https://LINK-TO-YOUR-FILE-SHARE</string>
+
+					</dict>
+
+				</array>
+
+				<key>metadata</key>
+
+				<dict>
+
+					<key>bundle-identifier</key>
+
+                    <!-- change bundle identifer to the one you are using in your app -->
+
+					<string>com.mallibone.sample</string>
+
+					<key>bundle-version</key>
+
+                    <!-- change version bellow to the version you are providing -->
+
+					<string>1.0</string>
+
+					<key>kind</key>
+
+					<string>software</string>
+
+					<key>title</key>
+
+                    <!-- change title to match your app name -->
+
+					<string>Mobile Friendly</string>
+
+				</dict>
+
+			</dict>
+
+		</array>
+
+	</dict>
+
+</plist>
